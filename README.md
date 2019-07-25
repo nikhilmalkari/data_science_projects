@@ -7,7 +7,7 @@ This repository contains a list of R DataScience projects I have completed, pres
 
 ## Data Analysis and Visualisation
 
-[Suicide analysis across the globe](https://github.com/nikhilmalkari/data_science_projects/blob/master/suicideanalysis.ipynb):Statistics of suicides in different countries around the world can be understood
+Statistics of suicides in different countries around the world can be understood : [Suicide analysis across the globe](https://github.com/nikhilmalkari/data_science_projects/blob/master/suicideanalysis.ipynb)
 
 [Analysis of availabilty of water in India](https://github.com/nikhilmalkari/data_science_projects/blob/master/eda_water_analysis.ipynb)
 
